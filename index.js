@@ -26,4 +26,4 @@ return result
   )
  
 }
-console.log(titleCased)
+console.log(titleCased(tutorials))
